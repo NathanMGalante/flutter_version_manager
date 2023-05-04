@@ -29,3 +29,7 @@ If you choose a version that is already the current version, the script will dis
 If you choose a different version, the script will move the current version's directory to a backup directory and move the selected version's directory to the default directory. 
 
 After switching versions, the script will display the new version number.
+
+![image](https://user-images.githubusercontent.com/76235377/236334718-590ba1ef-198b-4d73-8e2d-a8ea1f1aff96.png)
+![image](https://user-images.githubusercontent.com/76235377/236334818-df23065f-c863-4434-921d-c78933bf7912.png)
+
