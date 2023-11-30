@@ -36,4 +36,19 @@ If you choose a different version, the script will move the current version's di
 
 After switching versions, the script will display the new version number.
 
-
+## Directory
+```
+- flutter
+  - common
+    - flutter     // this is the location of the downloaded version
+      - version
+- flutter2
+  - common
+    - flutter     // this is the location of another downloaded version
+      - version
+- flutter3
+  - common
+    - flutter     // this is the location of another downloaded version
+      - version
+- flutter_version_manager.sh
+```
