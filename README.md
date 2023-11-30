@@ -42,11 +42,11 @@ After switching versions, the script will display the new version number.
   - common
     - flutter     // this is the location of the downloaded version
       - version
-- flutter2
+- flutter2.10.3
   - common
     - flutter     // this is the location of another downloaded version
       - version
-- flutter3
+- flutter3.7.11
   - common
     - flutter     // this is the location of another downloaded version
       - version
